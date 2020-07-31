@@ -156,7 +156,6 @@ textarea {
     background-color: var(--message-hover-color);
 }
 
-
 .message .reactions > li,
 .message .reactions > li.selected {
     border-color: var(--color-dark-medium);
